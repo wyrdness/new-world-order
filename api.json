@@ -1,10 +1,8 @@
 {
-  "category": "CONSPIRACY_THEORY",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/new-world-order",
     "maintainers": [
       {
@@ -18,361 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "new-world-order",
     "name": "New World Order",
-    "aliases": [
-      {
-        "name": "NWO",
-        "meaning": "Common abbreviation"
-      },
-      {
-        "name": "One World Government",
-        "meaning": "Alternative term for alleged goal"
-      },
-      {
-        "name": "Globalist Agenda",
-        "meaning": "Modern variant terminology"
-      }
-    ],
+    "aliases": [],
     "category": "CONSPIRACY_THEORY",
-    "subcategory": "Global Governance",
+    "subcategory": "Elite Control",
     "tags": [
-      "globalization",
-      "world-government",
-      "elite-control",
-      "sovereignty",
-      "political-conspiracy",
-      "end-times"
+      "folklore",
+      "mythology"
     ],
-    "status": "conspiracy_theory",
+    "status": "documented",
     "description": {
-      "summary": "Conspiracy theory claiming a secretive elite cabal is working to establish a totalitarian world government, eliminating national sovereignty. The theory misinterprets international cooperation and legitimate global organizations as evidence of conspiracy.",
-      "full": "The New World Order (NWO) conspiracy theory posits that a powerful elite cabal is secretly working to establish a totalitarian world government that would eliminate national sovereignty, individual freedoms, and traditional institutions. Alleged architects include the United Nations, European Union, Bilderberg Group, Trilateral Commission, Illuminati, and Freemasons. Elements commonly cited include population control, microchipping, cashless society, martial law, and FEMA camps. The theory emerged from post-WWI/WWII discussions of international cooperation (League of Nations, UN) and was amplified by Cold War fears. George H.W. Bush's 1991 speech using the phrase 'new world order' (meaning international cooperation post-Cold War) was misinterpreted as evidence. No credible evidence supports claims of a secret totalitarian world government conspiracy."
+      "summary": "The New World Order (NWO) conspiracy theory claims that a secretive elite cabal is working to establish a totalitarian world government that would eliminate national sovereignty, individual freedoms, and traditional institutions.",
+      "full": "The New World Order (NWO) conspiracy theory claims that a secretive elite cabal is working to establish a totalitarian world government that would eliminate national sovereignty, individual freedoms, and traditional institutions."
     },
     "etymology": {
-      "origin": "The phrase 'new world order' has been used throughout history to describe changing international relations. Modern conspiracy usage amplified after George H.W. Bush's 1991 speech.",
-      "meaning": "Originally: reformed international order. Conspiracy theory: totalitarian world government",
-      "first_conspiracy_use": "Mid-20th century, popularized 1990s"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CONSPIRACY_THEORY",
-      "type": "Global Governance",
-      "subtype": "Elite Control",
-      "variant": "Political/End-Times"
+      "type": "Elite Control",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "illuminati",
-        "name": "Illuminati",
-        "relationship": "connected",
-        "description": "Alleged architects of NWO"
-      },
-      {
-        "id": "deep-state",
-        "name": "Deep State",
-        "relationship": "related",
-        "description": "Related government conspiracy theory"
-      },
-      {
-        "id": "bilderberg-group",
-        "name": "Bilderberg Group",
-        "relationship": "misinterpreted",
-        "description": "Real conference mischaracterized as NWO meeting"
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
       }
-    ]
-  },
-
-  "core_claims": {
-    "alleged_goals": [
-      {
-        "goal": "Totalitarian world government",
-        "description": "Single global government eliminating nation-states",
-        "evidence_claimed": "International organizations, treaties",
-        "reality": "International cooperation for specific issues, not world government"
-      },
-      {
-        "goal": "Elimination of national sovereignty",
-        "description": "Nations subordinated to global authority",
-        "evidence_claimed": "Trade agreements, international law",
-        "reality": "Voluntary cooperation; nations retain sovereignty"
-      },
-      {
-        "goal": "Population control",
-        "description": "Reduction of global population through various means",
-        "evidence_claimed": "Family planning programs, vaccines",
-        "reality": "Public health and voluntary family planning, not forced depopulation"
-      },
-      {
-        "goal": "Economic control",
-        "description": "Centralized global economic system, cashless society",
-        "evidence_claimed": "Digital currency development, banking consolidation",
-        "reality": "Normal economic evolution, not coordinated conspiracy"
-      },
-      {
-        "goal": "Surveillance and control",
-        "description": "Microchips, biometrics, total monitoring",
-        "evidence_claimed": "Technology development, security measures",
-        "reality": "Technology and security concerns legitimate but not NWO plot"
-      }
-    ],
-    "alleged_architects": [
-      {
-        "entity": "United Nations",
-        "description": "International organization for cooperation",
-        "conspiracy_claim": "Front for world government",
-        "reality": "Member states retain sovereignty; UN has limited enforcement power"
-      },
-      {
-        "entity": "European Union",
-        "description": "Political-economic union of European nations",
-        "conspiracy_claim": "Model for world government",
-        "reality": "Voluntary association; members can leave (Brexit example)"
-      },
-      {
-        "entity": "Bilderberg Group",
-        "description": "Annual conference of political and business leaders",
-        "conspiracy_claim": "Secret NWO planning meetings",
-        "reality": "Private conference for discussion; attendees have diverse views"
-      },
-      {
-        "entity": "Trilateral Commission",
-        "description": "Discussion group founded 1973",
-        "conspiracy_claim": "Elite planning group for world control",
-        "reality": "Policy discussion forum with no enforcement power"
-      },
-      {
-        "entity": "Council on Foreign Relations",
-        "description": "U.S. think tank on foreign policy",
-        "conspiracy_claim": "Shadow government planning NWO",
-        "reality": "Policy research organization with published work"
-      },
-      {
-        "entity": "Illuminati / Freemasons",
-        "description": "Historical/fraternal organizations",
-        "conspiracy_claim": "Ancient secret societies behind NWO",
-        "reality": "No evidence of coordinated global conspiracy"
-      }
-    ],
-    "alleged_elements": [
-      "Microchipping population (RFID, 'mark of the beast')",
-      "Cashless society for total financial control",
-      "FEMA camps for dissidents",
-      "Martial law and gun confiscation",
-      "Population reduction programs",
-      "Forced vaccination programs",
-      "One world currency",
-      "One world religion",
-      "Elimination of private property"
-    ]
-  },
-
-  "origins": {
-    "historical_context": {
-      "league_of_nations": {
-        "period": "Post-WWI (1920)",
-        "description": "First major international organization for peace",
-        "conspiracy_interpretation": "Early attempt at world government",
-        "reality": "Voluntary organization that failed; U.S. never joined"
-      },
-      "united_nations": {
-        "period": "Post-WWII (1945)",
-        "description": "International organization for peace and cooperation",
-        "conspiracy_interpretation": "World government in disguise",
-        "reality": "Member states retain sovereignty; limited enforcement power"
-      },
-      "cold_war_fears": {
-        "period": "1947-1991",
-        "description": "Ideological conflict, nuclear threat, global tensions",
-        "conspiracy_interpretation": "Manufactured conflict to enable NWO",
-        "reality": "Genuine geopolitical conflict with complex causes"
-      }
-    },
-    "bush_speech": {
-      "date": "1991-09-11",
-      "speaker": "George H.W. Bush",
-      "context": "Address to Congress after Gulf War, end of Cold War",
-      "phrase": "New World Order",
-      "intended_meaning": "Post-Cold War international cooperation, peaceful resolution of conflicts",
-      "conspiracy_interpretation": "Admission of secret world government plan",
-      "actual_quote": "Out of these troubled times, our fifth objective—a new world order—can emerge... A world where the rule of law, not the law of the jungle, governs the conduct of nations."
     }
   },
-
-  "variations": {
-    "secular_version": {
-      "description": "Totalitarian world government by elite cabal",
-      "focus": "Political and economic control",
-      "alleged_motivation": "Power and wealth concentration"
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "religious_version": {
-      "description": "Biblical end-times prophecy fulfillment",
-      "focus": "Antichrist, mark of the beast, tribulation",
-      "alleged_motivation": "Satanic/demonic influence",
-      "scriptural_references": "Revelation 13 (beast, mark), Daniel prophecies",
-      "note": "Interpreting modern events through biblical prophecy lens"
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "timeline": [
-    {
-      "period": "1920",
-      "event": "League of Nations founded",
-      "significance": "First major international organization; some see as early NWO attempt",
-      "reality": "Voluntary organization that failed to prevent WWII"
-    },
-    {
-      "period": "1945",
-      "event": "United Nations founded",
-      "significance": "Major international organization; conspiracy theories intensify",
-      "reality": "International cooperation body with limited power"
-    },
-    {
-      "period": "1954",
-      "event": "First Bilderberg meeting",
-      "significance": "Private conference of elites; conspiracy theories emerge",
-      "reality": "Discussion forum for leaders; diverse perspectives"
-    },
-    {
-      "period": "1973",
-      "event": "Trilateral Commission founded",
-      "significance": "Conspiracy theorists see as NWO planning group",
-      "reality": "Policy discussion group with published recommendations"
-    },
-    {
-      "period": "1991",
-      "event": "George H.W. Bush 'new world order' speech",
-      "significance": "Phrase ignites conspiracy theory explosion",
-      "reality": "Meant post-Cold War international cooperation"
-    },
-    {
-      "period": "1990s-2000s",
-      "event": "Globalization acceleration",
-      "significance": "Trade agreements, EU expansion, internet; conspiracy theories grow",
-      "reality": "Economic and technological developments, not conspiracy"
-    },
-    {
-      "period": "2001",
-      "event": "9/11 attacks",
-      "significance": "Some claim false flag to enable NWO surveillance state",
-      "reality": "Terrorist attacks led to security policy changes"
-    }
-  ],
-
-  "legitimate_basis": {
-    "real_organizations": {
-      "description": "International organizations cited in conspiracy theories actually exist",
-      "examples": [
-        "United Nations - international cooperation body",
-        "World Trade Organization - trade regulation",
-        "International Monetary Fund - financial stability",
-        "World Bank - development financing",
-        "Bilderberg Group - annual conference",
-        "Trilateral Commission - policy discussion group"
-      ],
-      "key_difference": "These have stated, democratic, or transparent purposes - not secret world government conspiracy"
-    },
-    "globalization": {
-      "description": "Increasing international interconnection is real",
-      "aspects": [
-        "Economic integration (trade, finance)",
-        "Technology (internet, communication)",
-        "Cultural exchange",
-        "Environmental cooperation (climate change)",
-        "Health cooperation (pandemic response)"
-      ],
-      "misinterpretation": "Natural evolution and voluntary cooperation interpreted as coordinated conspiracy"
-    }
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "debunking": {
-    "logical_flaws": [
-      "Massive conspiracy requiring millions of complicit individuals across nations, ideologies, religions",
-      "No credible whistleblowers despite alleged scale",
-      "Organizations cited have conflicting interests and goals",
-      "Nations actively compete rather than coordinate",
-      "Historical examples of failed international coordination (League of Nations)",
-      "Complexity of actual world governance makes secret control implausible"
-    ],
-    "evidence_problems": [
-      "No concrete evidence of secret world government plan",
-      "Bush's speech clearly meant international cooperation, not secret conspiracy",
-      "International organizations have limited enforcement power",
-      "Member states frequently defy international bodies (UN resolutions ignored)",
-      "Brexit and similar movements show nations can resist international integration"
-    ],
-    "reality_of_power": {
-      "description": "Power is diffuse and contested, not centrally controlled",
-      "evidence": [
-        "Nations have conflicting interests (U.S.-China tensions, etc.)",
-        "Corporations compete fiercely, not coordinate",
-        "Political ideologies clash globally",
-        "Historical failures of international coordination",
-        "Inability to solve global problems (climate change, poverty) shows lack of unified control"
-      ]
-    }
-  },
-
-  "psychology": {
-    "cognitive_factors": [
-      {
-        "factor": "Pattern-seeking in complexity",
-        "description": "Complex world events attributed to simple conspiracy",
-        "relevance": "Easier to believe in coordinated plan than accept chaos and complexity"
-      },
-      {
-        "factor": "Fear of change",
-        "description": "Rapid globalization and technological change create anxiety",
-        "relevance": "NWO theory provides explanation for unsettling changes"
-      },
-      {
-        "factor": "Loss of control",
-        "description": "Feeling powerless in complex global systems",
-        "relevance": "Conspiracy theory provides sense of understanding, even if frightening"
-      },
-      {
-        "factor": "Distrust of institutions",
-        "description": "Skepticism toward governments, media, corporations",
-        "relevance": "Predisposition to believe in elite conspiracies"
-      }
-    ],
-    "social_factors": [
-      "National identity anxiety (globalization threatens traditional identity)",
-      "Economic insecurity (job loss to globalization, automation)",
-      "Political polarization (us vs. them thinking)",
-      "Religious apocalyptic expectations (end-times prophecy)"
-    ]
-  },
-
-  "sources": [
-    {
-      "id": "barkun-2014",
-      "type": "book",
-      "title": "A Culture of Conspiracy: Apocalyptic Visions in Contemporary America",
-      "authors": ["Michael Barkun"],
-      "publication": "University of California Press",
-      "date": "2014",
-      "isbn": "978-0520276826"
-    },
-    {
-      "id": "bush-1991-speech",
-      "type": "speech",
-      "title": "Address Before a Joint Session of the Congress",
-      "speaker": "George H.W. Bush",
-      "date": "1991-09-11",
-      "url": "https://bush41library.tamu.edu/archives/public-papers/3430"
-    },
-    {
-      "id": "un-charter",
-      "type": "document",
-      "title": "Charter of the United Nations",
-      "organization": "United Nations",
-      "date": "1945",
-      "url": "https://www.un.org/en/about-us/un-charter"
-    }
-  ]
+  "sources": []
 }
